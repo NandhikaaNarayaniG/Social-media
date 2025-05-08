@@ -16,6 +16,15 @@ A complete social media platform built with **React** (frontend), **Node.js** an
 
 ---
 
+## 🚀 Tech Stack
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=flat-square&logo=node.js&logoColor=%23ffffff)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?&style=flat-square&logo=express&logoColor=%23ffffff)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=flat-square&logo=mysql&logoColor=%23ffffff)
+![JWT](https://img.shields.io/badge/JWT-%23000000.svg?&style=flat-square&logo=json-web-tokens&logoColor=%23ffffff)
+
+
 ## 🛠️ Tech Stack
 
 | Layer         | Technology            |
