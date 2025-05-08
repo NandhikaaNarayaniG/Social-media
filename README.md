@@ -57,58 +57,41 @@ A complete social media platform built with **React** (frontend), **Node.js** an
 ## 🛠️ Setup & Installation
 
 ### 1. Clone the Repository
-```bash
 git clone https://github.com/NandhikaaNarayaniG/Social-media.git
+
 2. Install Backend Dependencies
 Navigate to the backend folder (server/) and install dependencies:
-
-bash
-Copy
-Edit
 cd server
 npm install
-3. Configure MySQL
+
+4. Configure MySQL
 Make sure you have MySQL installed. Create a database and add your database credentials to the .env file in the server/ folder:
 
-bash
-Copy
-Edit
 DB_HOST=localhost
 DB_USER=your-username
 DB_PASSWORD=your-password
 DB_NAME=social_media
+
 4. Run Migrations (Sequelize)
 Run the Sequelize migrations to set up the database:
-
-bash
-Copy
-Edit
 npx sequelize-cli db:migrate
-5. Install Frontend Dependencies
-Navigate to the frontend folder (client/) and install dependencies:
 
-bash
-Copy
-Edit
+6. Install Frontend Dependencies
+Navigate to the frontend folder (client/) and install dependencies:
 cd ../client
 npm install
+
 6. Run the Project
 To start the backend and frontend:
 
 Backend:
-
-bash
-Copy
-Edit
 cd server
 npm start
-Frontend:
 
-bash
-Copy
-Edit
+Frontend:
 cd client
 npm start
+
 Your app will be available at http://localhost:3000 for the frontend and http://localhost:5000 for the backend.
 
 🔑 Authentication
@@ -122,10 +105,6 @@ If the credentials are correct, a token will be returned for further requests.
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-yaml
-Copy
-Edit
 
 ---
 
