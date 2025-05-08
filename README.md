@@ -95,8 +95,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - **JWT Authentication**: Ensures that users are securely authenticated via token-based authentication.
 - **Sequelize ORM**: Manages the database interactions (MySQL) for creating and managing user profiles, posts, and comments.
-  
-You can use this as a template to present your **fullstack social media app** in a more structured manner. Let me know if you'd like to customize anything!
+
 
 
 
