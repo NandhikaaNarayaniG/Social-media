@@ -37,32 +37,6 @@ A complete social media platform built with **React** (frontend), **Node.js** an
 
 ---
 
-## 🗂️ Project Structure
-
-/fullstack
-│
-├── /client # React Frontend
-│ ├── /src
-│ ├── /public
-│ └── package.json
-│
-├── /server # Node.js Backend
-│ ├── /config # Database connection, JWT secret
-│ ├── /controllers # API routes for posts, users, authentication
-│ ├── /models # Sequelize models
-│ ├── /routes # API routes
-│ ├── /middleware # JWT authentication middleware
-│ ├── /utils # Helper functions
-│ └── server.js # Server entry point
-│
-├── .gitignore # Git ignore file
-├── README.md # Project documentation
-└── package.json # Project dependencies and scripts
-
-
-
----
-
 ## 🛠️ Setup & Installation
 
 ### 1. Clone the Repository
